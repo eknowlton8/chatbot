@@ -11,14 +11,11 @@ A local AI chatbot for student support, built with Python and ChatterBot. It can
 ## Run Locally
 
 1. Clone the repo:
-```bash
 git clone https://github.com/eknowlton8/chatbot.git
 cd chatbot
 
 2. Install requirements:
-```bash
 pip install -r requirements.txt
 
 3. Run the Bot:
-```bash
 python chatbot.py
